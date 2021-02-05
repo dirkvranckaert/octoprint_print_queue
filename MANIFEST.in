@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_print_queue/templates *
+recursive-include octoprint_print_queue/translations *
+recursive-include octoprint_print_queue/static *
